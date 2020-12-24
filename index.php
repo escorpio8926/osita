@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>LOVE WAY Bootstarp responsive Website Template| Home :: w3layouts</title>
+<title>te amo</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -67,9 +67,7 @@
 						<div class="birds">
 					        <img src="images/logo.png" alt="" />
 				        </div>
-				        <div class="logo">
-				            <a href="index.php">Love Way</a>
-						</div>
+				   
 					<h1>Te amo</h1>
 					</div>
 				  </div>
@@ -91,9 +89,7 @@
 						     <div class="birds">
 					        <img src="images/logo.png" alt="" />
 				        </div>
-				       <div class="logo">
-				        <a href="index.php">Love Way</a>
-						</div>
+			
 						<h1></h1>
 					</div>
 				  </div>
@@ -124,9 +120,7 @@
 						        <div class="birds">
 					        <img src="images/logo.png" alt="" />
 				        </div>
-						<div class="logo">
-				        <a href="index.php">Love Way</a>
-						</div>
+				
 						
 					</div>
 				  </div>
