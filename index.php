@@ -144,13 +144,13 @@
 			</div>
 			<div class="happy-couple-grids">
 				<div class="col-md-6 happy-couple-grid text-center">
-					<img src="images/zz.jpg" style="width: 500px" alt="" />
+					<img src="images/zz.jpg" style="width: 200px" alt="" />
 			
 					<h4>El osito</h4>
 					<p>Se hace el duro pero es un flansito y ama intensamente , en especial los cachetitos de la osita</p>
 				</div>
 				<div class="col-md-6 happy-couple-grid text-center">
-					<img src="images/z.jpg" style="width: 525px" alt="" />
+					<img src="images/z.jpg" style="width: 200px" alt="" />
 					<h4>La osita</h4>
 					<p>Hay miradas que aman y miradas que odian. Hay miradas que alegran y miradas que matan. Su mirada delata lo que su corazon siente</p>
 				</div>
