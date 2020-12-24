@@ -36,9 +36,9 @@
 						<div class="top-menu w-top-menu">
 						<span class="menu"> </span>
 							<ul class="cl-effect-16">
-								<li><a href="index.html" data-hover="Home">Portada</a></li>
+								<li><a href="index.php" data-hover="Home">Portada</a></li>
 						
-								<li><a class="active" href="blog.html"><i class="heart"></i>Fotos y mas</a></li>
+								<li><a class="active" href="blog.php"><i class="heart"></i>Fotos y mas</a></li>
 
 
 							</ul>
@@ -52,7 +52,7 @@
 						</script>
 						<!-- script-for-menu -->
 						<div class="logo1">
-				            <a href="index.html">Love Way</a>
+				            <a href="index.php">Love Way</a>
 						</div>
 					</div>
 				  </div>

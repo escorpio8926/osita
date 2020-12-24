@@ -56,9 +56,9 @@
 						<div class="top-menu">
 						  <span class="menu"> </span>
 							<ul class="cl-effect-16">
-								<li><a class="active" href="index.html"><i class="heart"></i>Portada</a></li>
+								<li><a class="active" href="index.php"><i class="heart"></i>Portada</a></li>
 				
-								<li><a href="blog.html" data-hover="Blog">Fotos y mas</a></li>
+								<li><a href="blog.php" data-hover="Blog">Fotos y mas</a></li>
 								
 					
 								<div class="clearfix"></div>
@@ -68,7 +68,7 @@
 					        <img src="images/logo.png" alt="" />
 				        </div>
 				        <div class="logo">
-				            <a href="index.html">Love Way</a>
+				            <a href="index.php">Love Way</a>
 						</div>
 					<h1>Te amo</h1>
 					</div>
@@ -81,9 +81,9 @@
 						<div class="top-menu">
 						<span class="menu"> </span>
 						<ul class="cl-effect-16">
-								<li><a class="active" href="index.html"><i class="heart"></i>Home</a></li>
+								<li><a class="active" href="index.php"><i class="heart"></i>Home</a></li>
 				
-								<li><a href="blog.html" data-hover="Blog">Fotos y mas</a></li>
+								<li><a href="blog.php" data-hover="Blog">Fotos y mas</a></li>
 							
 								<div class="clearfix"></div>
 							</ul>
@@ -92,7 +92,7 @@
 					        <img src="images/logo.png" alt="" />
 				        </div>
 				       <div class="logo">
-				        <a href="index.html">Love Way</a>
+				        <a href="index.php">Love Way</a>
 						</div>
 						<h1></h1>
 					</div>
@@ -105,9 +105,9 @@
 						<div class="top-menu">
 						<span class="menu"> </span>
 							<ul class="cl-effect-16">
-								<li><a class="active" href="index.html"><i class="heart"></i>Home</a></li>
+								<li><a class="active" href="index.php"><i class="heart"></i>Home</a></li>
 					
-								<li><a href="blog.html" data-hover="Blog">Fotos y mas</a></li>
+								<li><a href="blog.php" data-hover="Blog">Fotos y mas</a></li>
 			
 								<div class="clearfix"></div>
 							</ul>
@@ -125,7 +125,7 @@
 					        <img src="images/logo.png" alt="" />
 				        </div>
 						<div class="logo">
-				        <a href="index.html">Love Way</a>
+				        <a href="index.php">Love Way</a>
 						</div>
 						
 					</div>
