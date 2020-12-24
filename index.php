@@ -64,9 +64,7 @@
 								<div class="clearfix"></div>
 							</ul>
 						</div>	
-						<div class="birds">
-					        <img src="images/logo.png" alt="" />
-				        </div>
+					
 				   
 					<h1>Te amo</h1>
 					</div>
@@ -85,10 +83,7 @@
 							
 								<div class="clearfix"></div>
 							</ul>
-						</div>							
-						     <div class="birds">
-					        <img src="images/logo.png" alt="" />
-				        </div>
+					
 			
 						<h1></h1>
 					</div>
@@ -116,11 +111,7 @@
 							});
 						</script>
 						<!-- script-for-menu -->
-						    
-						        <div class="birds">
-					        <img src="images/logo.png" alt="" />
-				        </div>
-				
+			
 						
 					</div>
 				  </div>
