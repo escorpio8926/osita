@@ -62,11 +62,11 @@
 	 <div class="container">
 	     <div class="blog-content-head text-left">
 			<h3>Me harias el honor de ser mi novia?</h2>
-				     <button name="botón" id="botón"  style=" width: 4%;color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" onclick="amor()"> SI   </button> <br>
-				     <button name="botón" id="botón"  style="color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" onclick="amore()">NO</button>
+				     <button name="botón" id="botón"  style=" width: 10%;color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" onclick="amor()">SI </button> <br>
+				     <button name="botón" id="botón"  style="width: 10%; color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" onclick="amore()">NO</button>
 				                   <div class="mirar" name="mirar" id="mirar" style="display: none;">
               <img src="images/amore.gif" style="width: 30%;color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" width="30%" height="500%" alt="Logo">
-             <button name="botón" id="botón"  style="color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" onclick="amores()">Amor infinito</button>
+             <button name="botón" id="botón"  style=" color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" onclick="amores()">Amor infinito</button>
 
               </div>
 
