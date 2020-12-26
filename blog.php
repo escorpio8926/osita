@@ -179,6 +179,16 @@ Un corazon lleno de amor por ti</p>
 					</div>
 					 <div class="clearfix"></div>	
 					</div>
+
+
+					<input type="button" value="Cargar amor" style="margin-left: 51%" onclick="setInterval('cargalo()',1000)">
+					<progress id="bo" style="height: 40px;margin-left:50%" max="100" value="10" style=""></progress>
+						    			                   <div  id="mirar28" style="display: none;">
+              <img src="images/l.gif" id="image" style="width: 30%;color: black;margin-left:auto;margin-right:auto;display:block;margin-bottom:0%" width="30%" height="500%" alt="Logo">
+
+              </div>
+					
+
 			
 </body>
 
@@ -202,6 +212,21 @@ function amores() {
    alert('Te amo osita!');
 }
 //-->
+</script>
+<script>
+	function cargalo(){
+		var amor= document.getElementById('bo');
+		document.getElementById('mirar28');
+		document.getElementById('image');
+
+		amor.value=amor.value+5;
+		if(amor.value==100)
+		{
+			   mirar28.style.display="block";
+   mirar28.style.margin="auto";
+image.focus();
+		}
+	}
 </script>
 </html>
 <?php 

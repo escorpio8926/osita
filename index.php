@@ -143,6 +143,7 @@
 			</div>
 
 	    </div>
+	    </div>
 	  
               <img src="images/wrapper-img.gif" alt="Img">
               <img src="images/b.gif" style="width: 300px" alt="Img">
