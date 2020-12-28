@@ -180,6 +180,35 @@ Un corazon lleno de amor por ti</p>
 					 <div class="clearfix"></div>	
 					</div>
 
+					<div class="blog_posts">
+				       <div class="blog_date">
+							<figure><span>26</span>Diciembre</figure>
+					    </div>
+					       <div class="blog_desc">
+								<div class="blog_heading">
+									<p><span>Bautismo Lupe</span></p>
+								
+							     </div>
+						<div class="section group example">			
+							<div class="col blog_1_of_2">
+				                <div class="blog_img">
+				                	<img src="images/love.png" alt="">
+				                </div>
+							</div>
+								<div class="col blogdata_1_of_2">
+									<div class="blog_data">
+										<p>¿sus ojos , su sonrisa, que mas podrias pedir?<br>si, ya lo se !... 5 años minimo</p>				                     
+				                    <div class="more">
+				         	  			
+				         	  			</div>
+				                   </div>
+								</div>
+							</div>
+						 <div class="clearfix"></div>	
+					</div>
+					 <div class="clearfix"></div>	
+					</div>
+
 
 					<input type="button" value="Cargar amor" style="margin-left: 51%" onclick="setInterval('cargalo()',1000)">
 					<progress id="bo" style="height: 40px;margin-left:50%" max="100" value="10" style=""></progress>
